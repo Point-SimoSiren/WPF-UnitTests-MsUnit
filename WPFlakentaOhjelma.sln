@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFlakentaOhjelma", "WPFlakentaOhjelma\WPFlakentaOhjelma.csproj", "{1E3C1B1B-0CFB-448D-B936-9EFF09F1C2B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{8855D63C-722A-4A3A-ACA1-DB7C42D0847A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaskinTesti", "LaskinTesti\LaskinTesti.csproj", "{FDD00468-727D-4A73-8EF4-6BDCEE9019BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{1E3C1B1B-0CFB-448D-B936-9EFF09F1C2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E3C1B1B-0CFB-448D-B936-9EFF09F1C2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E3C1B1B-0CFB-448D-B936-9EFF09F1C2B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8855D63C-722A-4A3A-ACA1-DB7C42D0847A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8855D63C-722A-4A3A-ACA1-DB7C42D0847A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8855D63C-722A-4A3A-ACA1-DB7C42D0847A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8855D63C-722A-4A3A-ACA1-DB7C42D0847A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD00468-727D-4A73-8EF4-6BDCEE9019BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD00468-727D-4A73-8EF4-6BDCEE9019BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD00468-727D-4A73-8EF4-6BDCEE9019BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD00468-727D-4A73-8EF4-6BDCEE9019BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

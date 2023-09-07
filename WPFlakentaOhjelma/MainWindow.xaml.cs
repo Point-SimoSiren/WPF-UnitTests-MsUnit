@@ -30,9 +30,13 @@ namespace WPFlakentaOhjelma
             double luku1 = Double.Parse(textBox_1.Text);
             double luku2 = Double.Parse(textBox_2.Text);
 
+            // Luodaan instanssi-olio Laskenta -luokasta
             Laskenta laske = new Laskenta();
+
+            // Annetaan laskenta-olion hoitaa yhteenlasku
             double tulos = laske.YhteenLasku(luku1, luku2);
-            
+
+            // Tuloskenttään laitetaan tulos
             textBox_tulos.Text = tulos.ToString();
         }
     }
